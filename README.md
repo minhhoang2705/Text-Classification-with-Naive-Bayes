@@ -1,3 +1,4 @@
+# Text Classification with Naive Bayes classifier
 This is a Module 2 project from AIO2024 main class
 
 # install dependencies
